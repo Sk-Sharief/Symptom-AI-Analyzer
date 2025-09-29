@@ -16,11 +16,16 @@ Healthcare is one of the most critical sectors, and access to quick guidance is 
 ---
 
 ## ✨ Key Features  
-- 🔍 **Symptom Prediction** – Based on entered symptoms, the system generates a list of possible conditions.  
-- 💊 **Medicine Suggestions** – Suggests commonly used medicines for educational purposes (not a replacement for prescription).  
-- 🥗 **Dietary Recommendations** – Provides personalized diet suggestions considering age, weight, and allergies.  
-- 🛡️ **Allergy-Safe Suggestions** – Ensures that any recommendation respects user’s allergies (e.g., asthma, sinus triggers).  
-- 📧 **Contact Form** – Patients can send an email to request an appointment directly through the application.  
+- 🔍 **Symptom Prediction** – Based on entered symptoms, the system generates a list of possible conditions.
+- 
+- 💊 **Medicine Suggestions** – Suggests commonly used medicines for educational purposes (not a replacement for prescription).
+- 
+- 🥗 **Dietary Recommendations** – Provides personalized diet suggestions considering age, weight, and allergies.
+- 
+- 🛡️ **Allergy-Safe Suggestions** – Ensures that any recommendation respects user’s allergies (e.g., asthma, sinus triggers).
+-   
+- 📧 **Contact Form** – Patients can send an email to request an appointment directly through the application.
+- 
 - 🔗 **Efficient Medical Links** – External links to trusted health resources for further reading.  
 
 ---
