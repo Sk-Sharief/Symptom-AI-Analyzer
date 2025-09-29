@@ -59,9 +59,13 @@ This application is designed for educational and informational purposes only. Th
 📩 Future Improvements
 
 🔮 Integration of Machine Learning models for more accurate predictions.
+
 📊 Dashboard to track patient history and past inputs.
+
 🌍 Multi-language support for wider accessibility.
+
 📱 Mobile-friendly UI for easy use on smartphones.
+
 🔒 Secure patient data storage with authentication.
 
 
